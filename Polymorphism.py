@@ -1,4 +1,5 @@
 
+# When a child class defines a method with the exact same name as a method in its parent class, it overrides the parent’s implementation. This allows you to call the same method signature on a collection of diverse objects and achieve distinct results at runtime.
 
 # Polymorphism.
 class Employee:
